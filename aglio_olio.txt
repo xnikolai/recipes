@@ -1,0 +1,10 @@
+Ingredients:
+Pasta
+Olive Oil
+Garlic
+
+Instructions:
+1. Start cooking the pasta
+2. While pasta is being cooked, mince the garlic
+3. Saute the garlic into the olive oil, semi cook it.
+4. Mix the cooked pasta and the garlic mixture.
